@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../lum-common/lum-common.iml" filepath="$PROJECT_DIR$/../lum-common/lum-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lum-manager/lum-manager.iml" filepath="$PROJECT_DIR$/../lum-manager/lum-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lum-manager/lum-manager-dao/lum-manager-dao.iml" filepath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/lum-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lum-manager/lum-manager-interface/lum-manager-interface.iml" filepath="$PROJECT_DIR$/../lum-manager/lum-manager-interface/lum-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lum-manager/lum-manager-pojo/lum-manager-pojo.iml" filepath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/lum-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lum-manager/lum-manager-service/lum-manager-service.iml" filepath="$PROJECT_DIR$/../lum-manager/lum-manager-service/lum-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/lum-manager-web.iml" filepath="$PROJECT_DIR$/../lum-manager/lum-manager-web/lum-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lum-parent.iml" filepath="$PROJECT_DIR$/lum-parent.iml" />
+    </modules>
+  </component>
+</project>

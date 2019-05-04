@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lum-manager-dao" />
+        <module name="lum-manager-interface" />
+        <module name="lum-manager-pojo" />
+        <module name="lum-manager-service" />
+        <module name="lum-manager-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lum-common" target="1.8" />
+      <module name="lum-manager" target="1.8" />
+      <module name="lum-manager-dao" target="1.8" />
+      <module name="lum-manager-interface" target="1.8" />
+      <module name="lum-manager-pojo" target="1.8" />
+      <module name="lum-manager-service" target="1.8" />
+      <module name="lum-manager-web" target="1.8" />
+      <module name="lum-parent" target="1.8" />
+      <module name="lum-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

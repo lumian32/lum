@@ -1,0 +1,1181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="lum-manager-web:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b46b93e7-e5a5-469b-b444-b7a93e39db27" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/lib.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/lum_manager_dao.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/lum_manager_dao1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/lum_manager_interface.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/lum_manager_pojo.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/libraries/lum_manager_service.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/lum.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-common/.idea/lum-common.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-common/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-common/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-common/lum-common.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-common/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/lum-manager-dao.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbContentCategoryMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbContentCategoryMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbContentMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbContentMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbItemCatMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbItemCatMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbItemDescMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbItemDescMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbItemMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbItemMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbItemParamItemMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbItemParamItemMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbItemParamMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbItemParamMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbOrderItemMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbOrderItemMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbOrderMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbOrderMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbOrderShippingMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbOrderShippingMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbUserMapper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbUserMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbContentCategoryMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbContentCategoryMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbContentMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbContentMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbItemCatMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbItemCatMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbItemDescMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbItemDescMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbItemMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbItemMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbItemParamItemMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbItemParamItemMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbItemParamMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbItemParamMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbOrderItemMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbOrderItemMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbOrderMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbOrderMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbOrderShippingMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbOrderShippingMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbUserMapper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/classes/com/lum/mapper/TbUserMapper.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/lum-manager-dao.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/maven-archiver/pom.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-interface/lum-manager-interface.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-interface/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-interface/target/lum-manager-interface.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-interface/target/maven-archiver/pom.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-interface/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-interface/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/lum-manager-pojo.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbContent.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbContentCategory.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbContentCategoryExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbContentExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbItem.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbItemCat.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbItemCatExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbItemDesc.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbItemDescExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbItemExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbItemParam.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbItemParamExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbItemParamItem.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbItemParamItemExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbOrder.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbOrderExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbOrderItem.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbOrderItemExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbOrderShipping.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbOrderShippingExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbUser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbUserExample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbContent.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbContentCategory.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbContentCategoryExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbContentCategoryExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbContentCategoryExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbContentCategoryExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbContentExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbContentExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbContentExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbContentExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItem.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemCat.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemCatExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemCatExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemCatExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemCatExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemDesc.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemDescExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemDescExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemDescExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemDescExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemParam.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemParamExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemParamExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemParamExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemParamExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemParamItem.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemParamItemExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemParamItemExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemParamItemExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbItemParamItemExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbOrder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbOrderExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbOrderExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbOrderExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbOrderExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbOrderItem.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbOrderItemExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbOrderItemExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbOrderItemExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbOrderItemExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbOrderShipping.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbOrderShippingExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbOrderShippingExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbOrderShippingExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbOrderShippingExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbUser.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbUserExample$Criteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbUserExample$Criterion.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbUserExample$GeneratedCriteria.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/classes/com/lum/pojo/TbUserExample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/lum-manager-pojo.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/maven-archiver/pom.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-service/lum-manager-service.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-service/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-service/target/lum-manager-service.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-service/target/maven-archiver/pom.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/lum-manager-web.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/conf/db.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/mybatis/SqlMapConfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/spring/applicationContext-dao.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/spring/applicationContext-service.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/spring/applicationContext-trans.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/spring/springmvc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/webapp/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/webapp/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/classes/conf/db.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/classes/mybatis/SqlMapConfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/classes/spring/applicationContext-dao.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/classes/spring/applicationContext-service.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/classes/spring/applicationContext-trans.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/classes/spring/springmvc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web.war" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/META-INF/MANIFEST.MF" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/classes/conf/db.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/classes/mybatis/SqlMapConfig.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/classes/spring/applicationContext-dao.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/classes/spring/applicationContext-service.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/classes/spring/applicationContext-trans.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/classes/spring/springmvc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/aopalliance-1.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/aspectjweaver-1.8.7.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/commons-logging-1.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/druid-1.0.9.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/jsqlparser-0.9.1.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/jstl-1.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/lum-manager-dao-1.0-SNAPSHOT.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/lum-manager-interface-1.0-SNAPSHOT.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/lum-manager-pojo-1.0-SNAPSHOT.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/lum-manager-service-1.0-SNAPSHOT.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/mybatis-3.2.8.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/mybatis-paginator-1.2.15.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/mybatis-spring-1.2.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/mysql-connector-java-5.1.32.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/pagehelper-3.6.0.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/slf4j-api-1.7.2.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/spring-aspects-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/spring-context-support-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/spring-jms-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/spring-messaging-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/lib/spring-webmvc-4.2.4.RELEASE.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/lum-manager-web/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/maven-archiver/pom.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/lum-manager.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../lum-manager/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/lum_manager_web_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/lum_manager_web_war_exploded.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_0_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_miemiedev_mybatis_paginator_1_2_15.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_3_6_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_32.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/lum-parent.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../lum-common/target/" />
+    <ignored path="$PROJECT_DIR$/../lum-manager/target/" />
+    <ignored path="$PROJECT_DIR$/../lum-manager/lum-manager-dao/target/" />
+    <ignored path="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/../lum-manager/lum-manager-interface/target/" />
+    <ignored path="$PROJECT_DIR$/../lum-manager/lum-manager-service/target/" />
+    <ignored path="$PROJECT_DIR$/../lum-manager/lum-manager-web/target/" />
+    <ignored path="$PROJECT_DIR$/../lum-test/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SqlMapConfig.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/mybatis/SqlMapConfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext-dao.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/spring/applicationContext-dao.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="20" column="48" lean-forward="false" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/conf/db.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/spring/springmvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lum-parent.iml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lum-parent.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext-trans.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/spring/applicationContext-trans.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext-service.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/spring/applicationContext-service.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../lum-manager/lum-manager-dao/pom.xml" />
+        <option value="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/../lum-manager/lum-manager-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/../lum-manager/lum-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/../lum-manager/lum-manager-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../lum-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../lum-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../lum-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/e3mall/mapper/TbItemMapper.xml" />
+        <option value="$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbItemMapper.xml" />
+        <option value="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/e3mall/pojo/TbItem.java" />
+        <option value="$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbItem.java" />
+        <option value="$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/conf/db.properties" />
+        <option value="$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/../lum-manager/lum-manager-service/src/main/java/com/lum/service/impl/ItemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lum-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lum-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lum-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lum-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Run Configurations" type="21c1f71a:MavenProjectsStructure$RunConfigurationsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="352" />
+    <option name="y" value="256" />
+    <option name="width" value="1237" />
+    <option name="height" value="806" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lum-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lum-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MLT\IdeaProjects\lum\lum-manager\lum-manager-service\src\main\java" />
+      <recent name="C:\Users\MLT\IdeaProjects\lum\lum-manager\lum-manager-pojo\src\main\java" />
+      <recent name="C:\Users\MLT\IdeaProjects\lum\lum-manager\lum-manager-dao\src\main\java" />
+      <recent name="C:\Users\MLT\IdeaProjects\lum\lum-manager\lum-manager-web\src\main\resources" />
+      <recent name="C:\Users\MLT\IdeaProjects\lum\lum-manager\lum-manager-web\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.lum">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="lum-common" />
+      <envs />
+    </configuration>
+    <configuration name="lum-parent [install:install]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="lum" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.67" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="lum-manager-web:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_lum-parent" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62959" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="lum-manager-web:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Maven.lum-parent [install:install]" />
+      <item index="1" class="java.lang.String" itemvalue="Tomcat Server.lum" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b46b93e7-e5a5-469b-b444-b7a93e39db27" name="Default" comment="" />
+      <created>1556964073599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556964073599</updated>
+      <workItem from="1556964076011" duration="8170000" />
+      <workItem from="1556986833258" duration="1084000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9254000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="352" y="256" width="1237" height="806" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985073" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965165" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31605777" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24953271" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985073" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/maven-archiver/pom.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/mybatis/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="48" lean-forward="false" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/conf/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/spring/applicationContext-trans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1060">
+          <caret line="53" column="10" lean-forward="false" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="21" column="20" lean-forward="false" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-pojo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="58" lean-forward="false" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-test/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/../lum-manager/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1556984905413" expanded="true" signature="3957:4059" ph="select from tb_item" />
+            <marker date="1556984905413" expanded="true" signature="4143:4199" ph="delete from tb_item... " />
+            <marker date="1556984905413" expanded="true" signature="4292:4311" ph="delete from tb_item... " />
+            <marker date="1556984905413" expanded="true" signature="4481:4939" ph="insert into tb_item... " />
+            <marker date="1556984905413" expanded="true" signature="6864:6892" ph="select count... tb_item" />
+            <marker date="1556984905413" expanded="true" signature="8409:8962" ph="update tb_item... " />
+            <marker date="1556984905413" expanded="true" signature="9163:10140" ph="update tb_item... " />
+            <marker date="1556984905413" expanded="true" signature="10229:10708" ph="update tb_item... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-dao/src/main/java/com/lum/mapper/TbContentCategoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1556984905997" expanded="true" signature="3805:3919" ph="select from tb_content_category" />
+            <marker date="1556984905997" expanded="true" signature="4003:4071" ph="delete from tb_content_category... " />
+            <marker date="1556984905997" expanded="true" signature="4175:4206" ph="delete from tb_content_category... " />
+            <marker date="1556984905997" expanded="true" signature="4387:4754" ph="insert into tb_content_category... " />
+            <marker date="1556984905997" expanded="true" signature="6320:6360" ph="select count... tb_content_category" />
+            <marker date="1556984905997" expanded="true" signature="7603:8037" ph="update tb_content_category... " />
+            <marker date="1556984905997" expanded="true" signature="8249:8994" ph="update tb_content_category... " />
+            <marker date="1556984905997" expanded="true" signature="9094:9475" ph="update tb_content_category... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-pojo/src/main/java/com/lum/pojo/TbItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-pojo/target/maven-archiver/pom.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/conf/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/mybatis/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="16" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-service/src/main/java/cn/e3mall/service/impl/ItemServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-service/src/main/java/com/lum/service/impl/ItemServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="48" lean-forward="false" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/spring/applicationContext-trans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="33" column="39" lean-forward="false" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="29" lean-forward="false" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../lum-manager/lum-manager-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lum-parent.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>lum-manager-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|lum-manager-web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

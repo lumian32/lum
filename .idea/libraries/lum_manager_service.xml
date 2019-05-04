@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lum-manager-service">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lum-manager/lum-manager-service/target/lum-manager-service.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

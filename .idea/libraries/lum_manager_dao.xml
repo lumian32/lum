@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lum-manager-dao">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lum-manager/lum-manager-dao/target/lum-manager-dao.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
